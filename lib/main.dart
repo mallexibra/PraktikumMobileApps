@@ -13,6 +13,10 @@ void main() {
   runApp(const MyApp());
 }
 
+// Nama: Maulana Malik Ibrahim
+// Kelas: 2C TRPL
+// NIM: 362258302039
+
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
   @override
